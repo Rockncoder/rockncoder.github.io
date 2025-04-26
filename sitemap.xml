@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rockncoder.github.io/posts/</loc>
+    <lastmod>2025-04-25T20:13:27-07:00</lastmod>
+  </url><url>
+    <loc>https://rockncoder.github.io/</loc>
+    <lastmod>2025-04-25T20:13:27-07:00</lastmod>
+  </url><url>
     <loc>https://rockncoder.github.io/categories/</loc>
   </url><url>
     <loc>https://rockncoder.github.io/tags/</loc>
-  </url><url>
-    <loc>https://rockncoder.github.io/</loc>
   </url>
 </urlset>
